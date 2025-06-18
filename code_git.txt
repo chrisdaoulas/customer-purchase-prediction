@@ -1,0 +1,10 @@
+ git init
+  508  git remote add origin https://github.com/chrisdaoulas/customer-purchase-prediction.git
+  509  git remote -v
+  510  git add .
+  511  git commit -m "Push all files to repository"
+  512  git branch
+  513  git push -u origin master
+  514  git branch -a
+  515  git branch -m master main
+  516  git push -u origin main
